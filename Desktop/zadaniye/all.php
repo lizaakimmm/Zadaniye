@@ -1,0 +1,9 @@
+<?php
+function sayHello() {
+    echo "Привет! Добро пожаловать!";
+}
+sayHello();
+sayHello();
+sayHello();
+
+?>
